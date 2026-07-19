@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="esp-base/esp-base.vcxproj" Id="41d99a44-08bb-4bb9-bf0d-73e6fb8a39d8" />
+</Solution>
